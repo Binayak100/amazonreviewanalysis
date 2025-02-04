@@ -6,6 +6,7 @@ This project aims to analyze customer sentiment from Amazon product reviews usin
 Preprocess and clean Amazon review text using NLTK and spaCy
 Convert text into numerical features using TF-IDF
 Train and evaluate a Logistic Regression model for sentiment classification
+
 Optimize model performance using Hyperparameter Tuning
 Visualize sentiment trends and confusion matrix
 Perform sentiment aggregation and insights generation
